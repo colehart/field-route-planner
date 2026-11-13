@@ -4,7 +4,7 @@ Plan one day of field service across Colorado’s Front Range and eastern plains
 
 ![Optimized routes for eight technicians, with one technician's itinerary open](docs/screenshot-light.png)
 
-**Live demo:** _coming soon_
+**Live demo: [field-route-planner-y3px.vercel.app](https://field-route-planner-y3px.vercel.app/)**
 
 ## What it does
 
